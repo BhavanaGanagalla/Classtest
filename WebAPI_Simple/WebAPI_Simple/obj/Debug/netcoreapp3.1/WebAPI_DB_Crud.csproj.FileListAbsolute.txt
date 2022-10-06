@@ -1,0 +1,127 @@
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.exe
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.deps.json
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.runtimeconfig.json
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.runtimeconfig.dev.json
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.pdb
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.csproj.AssemblyReference.cache
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.AssemblyInfoInputs.cache
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.AssemblyInfo.cs
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.csproj.CoreCompileInputs.cache
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_DB_Crud.StaticWebAssets.Manifest.cache
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_DB_Crud.StaticWebAssets.xml
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI_DB_Crud.styles.css
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.RazorTargetAssemblyInfo.cache
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.csproj.CopyComplete
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.dll
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.pdb
+D:\ASPdotnetCore\ASPdotnetCore Web API\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.genruntimeconfig.cache
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\appsettings.json
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.StaticWebAssets.xml
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.exe
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.deps.json
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.runtimeconfig.json
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.runtimeconfig.dev.json
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\WebAPI_DB_Crud.pdb
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.csproj.AssemblyReference.cache
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.AssemblyInfoInputs.cache
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.AssemblyInfo.cs
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.csproj.CoreCompileInputs.cache
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.MvcApplicationPartsAssemblyInfo.cache
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_DB_Crud.StaticWebAssets.Manifest.cache
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.RazorTargetAssemblyInfo.cache
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.csproj.CopyComplete
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.dll
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.pdb
+E:\LTI_Batch1055\WebAPI_Simple\WebAPI_Simple\obj\Debug\netcoreapp3.1\WebAPI_DB_Crud.genruntimeconfig.cache
